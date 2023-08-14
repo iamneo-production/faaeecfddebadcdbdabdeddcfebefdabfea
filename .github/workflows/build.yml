@@ -5,7 +5,7 @@ name: Build
       - '*'
   pull_request:
     types:
-      - opened
+      - opene
       - synchronize
       - reopened
 jobs:
